@@ -1,4 +1,4 @@
-Emoji Keyboard
+Emoji Keyboard (Source: https://github.com/muncus/unicode-keyboard)
 ==============
 
 ## Overview
@@ -35,3 +35,5 @@ other. Repeat for each entry in the KEYMAP array.
 
 * multi-platform support
 * autogen Unicode code point header
+
+### THIS IS BASICALLY A FORK, I JUST FUCKED UP THE FORKING PROCESS. APOLOGIES TO THE ORIGINAL UPLOADER.
